@@ -1,6 +1,6 @@
 {
-  "latest_version": 1,
-  "force_update": false,
+  "latest_version": 2,
+  "force_update": true,
   "update_url": "https://sv4k.app/ViewTV.apk",
   "title": "Update Required",
   "message": "New security update available. Please update now."
